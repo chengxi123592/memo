@@ -19,32 +19,24 @@
               },
               "icon": "lucide-file",
               "title": "备忘录"
-            },
-            "group": "1a8f05f17cc66b40"
-          }
-        ]
-      },
-      {
-        "id": "506d9e34d4cd0d78",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "766902db262f8b16",
+            "id": "053263a547bce707",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "备忘录.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "LLM-Wiki 知识库搭建指南.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-list",
-              "title": "备忘录 的大纲"
-            },
-            "group": "1a8f05f17cc66b40"
+              "icon": "lucide-file",
+              "title": "LLM-Wiki 知识库搭建指南"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +198,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ba1a9dce138c8263",
+  "active": "053263a547bce707",
   "lastOpenFiles": [
-    "RK3588.md",
     "备忘录.md",
+    "LLM-Wiki 知识库搭建指南.md",
+    "RK3588.md",
     "README.md"
   ]
 }
